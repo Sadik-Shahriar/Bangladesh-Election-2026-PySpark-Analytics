@@ -83,10 +83,5 @@ This pipeline is optimized for execution within a Google Colab environment to na
 2. Mount Google Drive containing the raw `BBS_Census_2022.xlsx` and `EC_Results_2026.csv` files.
 3. Execute the pipeline sequentially from Notebook 1 to 5.
 
-## 👨‍💻 Authors & Contributions
-*   **Md. Sadik Shahriar** (ID: 2023-2-60-103) - Data Engineering, ML Architecture, Predictive Modeling
-*   **Sunzid Ashraf Mahi** (ID: 2023-1-60-148) - Geospatial Mapping, Data Visualization, EDA
-*   **Abdullah Saleh Mahmud** (ID: 2023-1-60-215) - Hypothesis Formulation, Report Synthesis
-
 ---
 *If you are an academic researcher or recruiter reviewing this repository, please review the `CSE488_Report_IEEE.pdf` for a rigorous mathematical breakdown of the classification weights and cluster silhouettes.*
