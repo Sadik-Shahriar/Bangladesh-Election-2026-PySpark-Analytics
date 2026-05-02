@@ -22,24 +22,32 @@ Our analytics pipeline uncovered deep structural determinants of electoral outco
   <img src="reports/exported_plots/Election_Visualizations_Actual_vs_Predicted_Plots.png" width="600" title="Actual vs Predicted Voter Turnout">
 </p>
 
-*   **The Internet-Turnout Paradox:** Internet penetration exhibits a strong negative correlation with voter turnout ($r = -0.5948$), acting as a suppressive factor rather than an organizing catalyst.
+*   **The Coalition-Referendum Cleavage:** We discovered a massive, statistically significant partisan divide ($p = 0.000781$) regarding the July Charter. Constituencies won by the BNP Coalition overwhelmingly voted **NO** on the constitutional referendum, while Jamaat/Reform constituencies heavily voted **YES**.
 <p align="center">
-  <img src="reports/exported_plots/Election_Visualization_Correlation_Heatmap.png" width="600" title="Correlation Heatmap">
+  <img src="reports/exported_plots/Phase5_The_Coalition_Referendum_Cleavage.png" width="600" title="The Coalition-Referendum Cleavage">
 </p>
 
-*   **Youth as the Primary Determinant:** A Random Forest Classifier achieved **76.79\% accuracy (AUC: 0.7738)** in predicting coalition victory, identifying `Youth_Electorate_Pct` and `First_Time_Voter_Pct` as the dominant features driving political alignment.
-<p align="center">
-  <img src="reports/exported_plots/Election_Visualization_Feature_Importance_Bar_Chart.png" width="600" title="Random Forest Feature Importance">
-</p>
-
-*   **The Elite/Wealth Reversal:** Uncovered a statistically confirmed U-shaped "horseshoe" pattern where the Jamaat coalition drew identical high support (37.74%) from both the absolute poorest and the wealthiest quintiles of constituencies.
+*   **The Elite/Wealth Reversal ("Horseshoe" Pattern):** Uncovered a statistically confirmed U-shaped pattern where the Jamaat/Reform coalition drew identical high support (37.74%) from both the absolute poorest and the wealthiest quintiles of constituencies, bypassing the middle class.
 <p align="center">
   <img src="reports/exported_plots/Controversial_A_The_Pincer_Movement_Horseshoe_Wealth_Coalition.png" width="600" title="The Horseshoe Wealth Pattern">
 </p>
 
-*   **Geospatial Securitization:** Border proximity radically increases specific partisan support (Odds Ratio = 1.90), operating completely independently of localized poverty metrics.
+*   **Geopolitical Border Securitization:** Constituencies sharing an international border showed a massive surge in Jamaat/Reform support. The border proximity effect acts as a radicalizing factor completely independent of localized poverty metrics (Odds Ratio = 1.90).
+<p align="center">
+  <img src="reports/exported_plots/Controversial_C_The_Geopolitical_Securitization_Effect.png" width="600" title="Border Securitization Effect">
+</p>
 
-*   **Referendum Behavior:** While linear regression failed to predict constitutional reform preferences, a non-linear ensemble classifier achieved **90.00% accuracy** in predicting Referendum outcomes, revealing complex multivariate voting logic.
+*   **The Digital Elitism Paradox:** Contrary to traditional assumptions, high internet penetration and digital infrastructure exhibited a strong predictive relationship favoring the Jamaat/Reform coalition, shattering the premise that digital literacy naturally favors traditional establishment parties.
+<p align="center">
+  <img src="reports/exported_plots/Controversial_B_The_Digital_Elitism_Paradox.png" width="600" title="The Digital Elitism Paradox">
+</p>
+
+*   **The Internet-Turnout Suppressive Effect:** Internet penetration exhibits a strong negative correlation with voter turnout ($r = -0.5948$), acting as an electoral suppressive factor rather than an organizing catalyst.
+
+*   **Youth as the Primary Determinant:** A Random Forest Classifier achieved **76.79\% accuracy (AUC: 0.7738)** in predicting coalition victory using only pre-election census data, identifying `Youth_Electorate_Pct` and `First_Time_Voter_Pct` as the dominant features.
+<p align="center">
+  <img src="reports/exported_plots/Election_Visualization_Feature_Importance_Bar_Chart.png" width="600" title="Random Forest Feature Importance">
+</p>
 
 ## 🛠️ Architecture & Tech Stack
 
