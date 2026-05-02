@@ -1,0 +1,474 @@
+{
+  "plots": [
+    {
+      "notebook": "Election Notebook Outputs.ipynb",
+      "cell_index": 18,
+      "heading": "Phase 1 Visualization: Correlation Heatmap",
+      "filename": "Election_Visualization_Correlation_Heatmap.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Election_Visualization_Correlation_Heatmap.png",
+      "size_kb": 325.9,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Election Notebook Outputs.ipynb",
+      "cell_index": 22,
+      "heading": "Silhouette Score Visualization",
+      "filename": "Election_Silhouette_Score_Visualization.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Election_Silhouette_Score_Visualization.png",
+      "size_kb": 48.5,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Election Notebook Outputs.ipynb",
+      "cell_index": 28,
+      "heading": "Phase 2 Visualizations: Actual vs. Predicted Plots",
+      "filename": "Election_Visualizations_Actual_vs_Predicted_Plots.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Election_Visualizations_Actual_vs_Predicted_Plots.png",
+      "size_kb": 128.6,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Election Notebook Outputs.ipynb",
+      "cell_index": 34,
+      "heading": "Visualization: Feature Importance Bar Chart",
+      "filename": "Election_Visualization_Feature_Importance_Bar_Chart.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Election_Visualization_Feature_Importance_Bar_Chart.png",
+      "size_kb": 146.6,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Election Notebook Outputs.ipynb",
+      "cell_index": 36,
+      "heading": "Visualization: Confusion Matrix",
+      "filename": "Election_Visualization_Confusion_Matrix.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Election_Visualization_Confusion_Matrix.png",
+      "size_kb": 50.4,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Election Notebook Outputs.ipynb",
+      "cell_index": 39,
+      "heading": "Phase 3 Ablation Study: Quantifying the Value of K-Means Clustering",
+      "filename": "Election_Ablation_Study_Quantifying_the_Value_of_K_Means_Clustering.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Election_Ablation_Study_Quantifying_the_Value_of_K_Means_Clustering.png",
+      "size_kb": 44.2,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "EDA_Pipeline.ipynb",
+      "cell_index": 6,
+      "heading": "2. Target Variable Distributions",
+      "filename": "EDA_2_Target_Variable_Distributions.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\EDA_2_Target_Variable_Distributions.png",
+      "size_kb": 116.2,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "EDA_Pipeline.ipynb",
+      "cell_index": 8,
+      "heading": "3. Socio-Economic Feature Distributions (Univariate Analysis)",
+      "filename": "EDA_3_Socio_Economic_Feature_Distributions_Univariate_Analysis.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\EDA_3_Socio_Economic_Feature_Distributions_Univariate_Analysis.png",
+      "size_kb": 140.0,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "EDA_Pipeline.ipynb",
+      "cell_index": 10,
+      "heading": "4. Correlation Analysis (Bivariate Analysis)",
+      "filename": "EDA_4_Correlation_Analysis_Bivariate_Analysis.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\EDA_4_Correlation_Analysis_Bivariate_Analysis.png",
+      "size_kb": 211.8,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Advanced_Analytics_Pipeline_Outputs.ipynb",
+      "cell_index": 4,
+      "heading": "Task 1.1: Referendum Support Percentage Prediction",
+      "filename": "Advanced_1_Referendum_Support_Percentage_Prediction.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Advanced_1_Referendum_Support_Percentage_Prediction.png",
+      "size_kb": 49.9,
+      "metrics_nearby": {
+        "R2": [
+          "0.2836"
+        ],
+        "RMSE": [
+          "7.9103"
+        ]
+      }
+    },
+    {
+      "notebook": "Advanced_Analytics_Pipeline_Outputs.ipynb",
+      "cell_index": 6,
+      "heading": "Task 1.2: Winning Margin Prediction",
+      "filename": "Advanced_2_Winning_Margin_Prediction.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Advanced_2_Winning_Margin_Prediction.png",
+      "size_kb": 56.5,
+      "metrics_nearby": {
+        "R2": [
+          "0.0162"
+        ],
+        "RMSE": [
+          "15.8063"
+        ]
+      }
+    },
+    {
+      "notebook": "Advanced_Analytics_Pipeline_Outputs.ipynb",
+      "cell_index": 8,
+      "heading": "Task 2.1: Referendum Outcome Classification",
+      "filename": "Advanced_1_Referendum_Outcome_Classification.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Advanced_1_Referendum_Outcome_Classification.png",
+      "size_kb": 41.1,
+      "metrics_nearby": {
+        "Accuracy": [
+          "0.9000"
+        ],
+        "AUC": [
+          "0.9136"
+        ]
+      }
+    },
+    {
+      "notebook": "Advanced_Analytics_Pipeline_Outputs.ipynb",
+      "cell_index": 10,
+      "heading": "Task 2.2: Winning Party Prediction",
+      "filename": "Advanced_2_Winning_Party_Prediction.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Advanced_2_Winning_Party_Prediction.png",
+      "size_kb": 62.6,
+      "metrics_nearby": {
+        "Accuracy": [
+          "0.8000"
+        ],
+        "F1": [
+          "0.7643"
+        ]
+      }
+    },
+    {
+      "notebook": "Advanced_Analytics_Pipeline_Outputs.ipynb",
+      "cell_index": 12,
+      "heading": "Task 2.3: Voter Behavior Type Classification",
+      "filename": "Advanced_3_Voter_Behavior_Type_Classification.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Advanced_3_Voter_Behavior_Type_Classification.png",
+      "size_kb": 94.1,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Advanced_Analytics_Pipeline_Outputs.ipynb",
+      "cell_index": 14,
+      "heading": "Task 3.1: Referendum Alignment Clustering",
+      "filename": "Advanced_1_Referendum_Alignment_Clustering.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Advanced_1_Referendum_Alignment_Clustering.png",
+      "size_kb": 113.3,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Controversial_Hypotheses_Outputs.ipynb",
+      "cell_index": 4,
+      "heading": "Hypothesis A: The \"Pincer Movement\" (Horseshoe Wealth Coalition)",
+      "filename": "Controversial_A_The_Pincer_Movement_Horseshoe_Wealth_Coalition.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Controversial_A_The_Pincer_Movement_Horseshoe_Wealth_Coalition.png",
+      "size_kb": 106.2,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Controversial_Hypotheses_Outputs.ipynb",
+      "cell_index": 6,
+      "heading": "Hypothesis B: The Digital Elitism Paradox",
+      "filename": "Controversial_B_The_Digital_Elitism_Paradox.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Controversial_B_The_Digital_Elitism_Paradox.png",
+      "size_kb": 82.7,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Controversial_Hypotheses_Outputs.ipynb",
+      "cell_index": 8,
+      "heading": "Hypothesis C: The Geopolitical Securitization Effect",
+      "filename": "Controversial_C_The_Geopolitical_Securitization_Effect.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Controversial_C_The_Geopolitical_Securitization_Effect.png",
+      "size_kb": 57.2,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Phase5_10_Hypotheses_Outputs.ipynb",
+      "cell_index": 6,
+      "heading": "Hypothesis 1: The Elite/Wealth Reversal",
+      "filename": "Phase5_The_Elite_Wealth_Reversal.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Phase5_The_Elite_Wealth_Reversal.png",
+      "size_kb": 77.6,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Phase5_10_Hypotheses_Outputs.ipynb",
+      "cell_index": 8,
+      "heading": "Hypothesis 2: The Senior Citizen Firewall",
+      "filename": "Phase5_The_Senior_Citizen_Firewall.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Phase5_The_Senior_Citizen_Firewall.png",
+      "size_kb": 102.5,
+      "metrics_nearby": {
+        "Chi2_pvalue": [
+          "0.128900"
+        ],
+        "t_stat": [
+          "-1.5284"
+        ]
+      }
+    },
+    {
+      "notebook": "Phase5_10_Hypotheses_Outputs.ipynb",
+      "cell_index": 10,
+      "heading": "Hypothesis 3: The Student/Youth Vanguard",
+      "filename": "Phase5_The_Student_Youth_Vanguard.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Phase5_The_Student_Youth_Vanguard.png",
+      "size_kb": 33.4,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Phase5_10_Hypotheses_Outputs.ipynb",
+      "cell_index": 12,
+      "heading": "Hypothesis 4: The Referendum Generational Chasm",
+      "filename": "Phase5_The_Referendum_Generational_Chasm.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Phase5_The_Referendum_Generational_Chasm.png",
+      "size_kb": 124.2,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Phase5_10_Hypotheses_Outputs.ipynb",
+      "cell_index": 14,
+      "heading": "Hypothesis 5: The Gender Partisan Divide",
+      "filename": "Phase5_The_Gender_Partisan_Divide.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Phase5_The_Gender_Partisan_Divide.png",
+      "size_kb": 33.5,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Phase5_10_Hypotheses_Outputs.ipynb",
+      "cell_index": 16,
+      "heading": "Hypothesis 6: The Digital Battleground",
+      "filename": "Phase5_The_Digital_Battleground.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Phase5_The_Digital_Battleground.png",
+      "size_kb": 38.1,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Phase5_10_Hypotheses_Outputs.ipynb",
+      "cell_index": 18,
+      "heading": "Hypothesis 7: Geospatial Border Radicalization",
+      "filename": "Phase5_Geospatial_Border_Radicalization.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Phase5_Geospatial_Border_Radicalization.png",
+      "size_kb": 31.9,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Phase5_10_Hypotheses_Outputs.ipynb",
+      "cell_index": 20,
+      "heading": "Hypothesis 8: The Coalition Referendum Cleavage",
+      "filename": "Phase5_The_Coalition_Referendum_Cleavage.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Phase5_The_Coalition_Referendum_Cleavage.png",
+      "size_kb": 32.5,
+      "metrics_nearby": {
+        "Chi2_pvalue": [
+          "0.000781"
+        ]
+      }
+    },
+    {
+      "notebook": "Phase5_10_Hypotheses_Outputs.ipynb",
+      "cell_index": 22,
+      "heading": "Hypothesis 9: The Digital Referendum Paradox",
+      "filename": "Phase5_The_Digital_Referendum_Paradox.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Phase5_The_Digital_Referendum_Paradox.png",
+      "size_kb": 55.7,
+      "metrics_nearby": {}
+    },
+    {
+      "notebook": "Phase5_10_Hypotheses_Outputs.ipynb",
+      "cell_index": 24,
+      "heading": "Hypothesis 10: The Poverty Anti-Reform Backlash",
+      "filename": "Phase5_The_Poverty_Anti_Reform_Backlash.png",
+      "filepath": "c:\\Users\\Sadik\\Documents\\Google Antigravity\\Election Analysis\\Outputs\\exported_plots\\Phase5_The_Poverty_Anti_Reform_Backlash.png",
+      "size_kb": 136.1,
+      "metrics_nearby": {}
+    }
+  ],
+  "metrics": [
+    {
+      "notebook": "Election Notebook Outputs.ipynb",
+      "cell_index": 16,
+      "heading": "Hypotheses Under Test",
+      "metrics": {
+        "Pearson": [
+          "-0.5948",
+          "-0.5111"
+        ],
+        "Spearman": [
+          "-0.5392",
+          "-0.4482"
+        ]
+      },
+      "raw_excerpt": "================================================================================\nPHASE 1: MULTI-MODAL CORRELATION ANALYSIS\n================================================================================\n  Rows with complete data: 268\n\n=== KEY PEARSON CORRELATIONS ===\n  H1.1: Internet vs Turnout                      Pearson=-0.5948  Spearman=-0.5392\n  H1.2: Wealth Polarization vs Margin            Pearson=+0.0405  Spearman=+0.0109\n  H1.3: NEET Youth vs Turnout                    Pearson=+0.2460 "
+    },
+    {
+      "notebook": "Election Notebook Outputs.ipynb",
+      "cell_index": 20,
+      "heading": "Preprocessing",
+      "metrics": {
+        "Silhouette": [
+          "0.7078",
+          "0.4353",
+          "0.4136",
+          "0.3750",
+          "0.2859",
+          "0.2869",
+          "0.2760",
+          "0.2898",
+          "0.2665",
+          "0.7078"
+        ]
+      },
+      "raw_excerpt": "================================================================================\nPHASE 4: K-MEANS CONSTITUENCY CLUSTERING\n================================================================================\n  Constituencies for clustering: 269\n  Features: 12\n\n=== SILHOUETTE ANALYSIS ===\n  K= 2  |  Silhouette = 0.7078  |  Cost = 2,039\n  K= 3  |  Silhouette = 0.4353  |  Cost = 1,608\n  K= 4  |  Silhouette = 0.4136  |  Cost = 1,493\n  K= 5  |  Silhouette = 0.3750  |  Cost = 1,331\n  K= 6  |  Silhouette = "
+    },
+    {
+      "notebook": "Election Notebook Outputs.ipynb",
+      "cell_index": 26,
+      "heading": "Evaluation Metrics",
+      "metrics": {
+        "R2": [
+          "0.6302",
+          "-0.0051"
+        ],
+        "RMSE": [
+          "5.23",
+          "9.54"
+        ],
+        "MAE": [
+          "4.44",
+          "6.94"
+        ]
+      },
+      "raw_excerpt": "================================================================================\nPHASE 2: REGRESSION ANALYSIS\n================================================================================\n  Training: 216 rows | Test: 52 rows\n\n--- MODEL A: LINEAR REGRESSION (Voter Turnout) ---\n  R2 = 0.6302 | RMSE = 5.23% | MAE = 4.44%\n\n  Top 5 Turnout Predictors:\n    Youth_Electorate_Pct            coeff=-5.7970  (DECREASES turnout)\n    Senior_Electorate_Pct           coeff=-5.7766  (DECREASES turnout)\n    Cl"
+    },
+    {
+      "notebook": "Election Notebook Outputs.ipynb",
+      "cell_index": 30,
+      "heading": "Spark MLlib Modules",
+      "metrics": {
+        "F1": [
+          "0.8395",
+          "0.5806"
+        ]
+      },
+      "raw_excerpt": "================================================================================\nPHASE 3: RANDOM FOREST CLASSIFICATION -- COALITION PREDICTION\n================================================================================\n  Binary dataset: 263 constituencies\n  Excluded: 6 INDEPENDENT_OTHER seats\n+-------------+-----+\n|    Coalition|count|\n+-------------+-----+\n|BNP_COALITION|  191|\n|JAMAAT_REFORM|   72|\n+-------------+-----+\n\n\n  Label Encoding:\n    0 -> BNP_COALITION (191 seats)\n    1 -> JAMAA"
+    },
+    {
+      "notebook": "Election Notebook Outputs.ipynb",
+      "cell_index": 41,
+      "heading": "Executive Summary",
+      "metrics": {
+        "R2": [
+          "0.6302",
+          "-0.0051"
+        ],
+        "RMSE": [
+          "5.23",
+          "9.54"
+        ],
+        "Accuracy": [
+          "0.7679"
+        ],
+        "F1": [
+          "0.7609"
+        ],
+        "Silhouette": [
+          "0.7078"
+        ],
+        "AUC": [
+          "0.7738"
+        ]
+      },
+      "raw_excerpt": "================================================================================\nEXECUTIVE SUMMARY\n13th Bangladesh National Parliamentary Election (February 12, 2026)\n================================================================================\n\n  PHASE 1: CORRELATION ANALYSIS\n  - Method: Pearson + Spearman dual correlation matrices\n  - Visualization: correlation_heatmap.png\n\n  PHASE 2: REGRESSION ANALYSIS\n  - Model A (Voter Turnout):    LR ElasticNet  | R2 = 0.6302 | RMSE = 5.23%\n  - Model B"
+    },
+    {
+      "notebook": "Advanced_Analytics_Pipeline_Outputs.ipynb",
+      "cell_index": 4,
+      "heading": "Task 1.1: Referendum Support Percentage Prediction",
+      "metrics": {
+        "R2": [
+          "0.2836"
+        ],
+        "RMSE": [
+          "7.9103"
+        ]
+      },
+      "raw_excerpt": "================================================================================\nTASK 1.1: REFERENDUM SUPPORT PERCENTAGE PREDICTION\n================================================================================\nEvaluating on 168 constituencies with Referendum data.\nRMSE: 7.9103\nR-squared: 0.2836\n\n\n\n<Figure size 960x720 with 1 Axes>"
+    },
+    {
+      "notebook": "Advanced_Analytics_Pipeline_Outputs.ipynb",
+      "cell_index": 6,
+      "heading": "Task 1.2: Winning Margin Prediction",
+      "metrics": {
+        "R2": [
+          "0.0162"
+        ],
+        "RMSE": [
+          "15.8063"
+        ]
+      },
+      "raw_excerpt": "================================================================================\nTASK 1.2: WINNING MARGIN PREDICTION\n================================================================================\nEvaluating on 168 constituencies with complete data.\nRMSE: 15.8063\nR-squared: 0.0162\n\n\n\n<Figure size 1200x720 with 1 Axes>"
+    },
+    {
+      "notebook": "Advanced_Analytics_Pipeline_Outputs.ipynb",
+      "cell_index": 8,
+      "heading": "Task 2.1: Referendum Outcome Classification",
+      "metrics": {
+        "Accuracy": [
+          "0.9000"
+        ],
+        "AUC": [
+          "0.9136"
+        ]
+      },
+      "raw_excerpt": "================================================================================\nTASK 2.1: REFERENDUM OUTCOME CLASSIFICATION\n================================================================================\nEvaluating on 168 constituencies.\nAccuracy: 0.9000\nAUC-ROC: 0.9136\n\n\n\n<Figure size 720x600 with 2 Axes>"
+    },
+    {
+      "notebook": "Advanced_Analytics_Pipeline_Outputs.ipynb",
+      "cell_index": 10,
+      "heading": "Task 2.2: Winning Party Prediction",
+      "metrics": {
+        "Accuracy": [
+          "0.8000"
+        ],
+        "F1": [
+          "0.7643"
+        ]
+      },
+      "raw_excerpt": "================================================================================\nTASK 2.2: WINNING PARTY PREDICTION\n================================================================================\nEvaluating on 168 constituencies with complete data.\nMulti-class Accuracy: 0.8000\nF1-Score: 0.7643\n\n\n\n<Figure size 1200x720 with 1 Axes>"
+    },
+    {
+      "notebook": "Phase5_10_Hypotheses_Outputs.ipynb",
+      "cell_index": 8,
+      "heading": "Hypothesis 2: The Senior Citizen Firewall",
+      "metrics": {
+        "Chi2_pvalue": [
+          "0.128900"
+        ],
+        "t_stat": [
+          "-1.5284"
+        ]
+      },
+      "raw_excerpt": "================================================================================\nH2: THE SENIOR CITIZEN FIREWALL\n================================================================================\nBNP Mean Senior Pct: 13.22%\nJamaat Mean Senior Pct: 13.77%\nt-statistic: -1.5284, p-value: 0.128900\n\n\n\n<Figure size 1920x720 with 2 Axes>"
+    },
+    {
+      "notebook": "Phase5_10_Hypotheses_Outputs.ipynb",
+      "cell_index": 20,
+      "heading": "Hypothesis 8: The Coalition Referendum Cleavage",
+      "metrics": {
+        "Chi2_pvalue": [
+          "0.000781"
+        ]
+      },
+      "raw_excerpt": "================================================================================\nH8: THE COALITION REFERENDUM CLEAVAGE\n================================================================================\nBNP Mean NO_Pct: 34.62%\nJamaat Mean NO_Pct: 29.44%\nT-test p-value: 0.000781\n\n\n/tmp/ipykernel_3883/2604247727.py:16: FutureWarning: \n\nPassing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.\n\n "
+    }
+  ]
+}
