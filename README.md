@@ -83,5 +83,27 @@ This pipeline is optimized for execution within a Google Colab environment to na
 2. Mount Google Drive containing the raw `BBS_Census_2022.xlsx` and `EC_Results_2026.csv` files.
 3. Execute the pipeline sequentially from Notebook 1 to 5.
 
+## 👨‍💻 Author
+*   **Md. Sadik Shahriar** (ID: 2023-2-60-103) - End-to-End Pipeline Architecture, Data Engineering, PySpark ML Modeling, and Geospatial Analysis.
+
+## 📜 License & Citation
+
+The **source code** in this repository is licensed under the [MIT License](LICENSE). 
+
+However, the **academic findings, PDF reports, and data visualizations** are the intellectual property of the author. If you use this data, methodology, or analytical findings in a research paper, article, or project, you **must** provide appropriate academic attribution.
+
+**To cite this work, please use the following BibTeX format:**
+
+```bibtex
+@techreport{shahriar2026election,
+  title={Bangladesh National Election 2026: Big Data Correlation and Predictive Analytics Using Apache Spark},
+  author={Shahriar, Md. Sadik},
+  institution={East West University},
+  year={2026},
+  type={Data Science Project},
+  course={CSE488: Big Data Analytics}
+}
+```
+
 ---
-*If you are an academic researcher or recruiter reviewing this repository, please review the `CSE488_Report_IEEE.pdf` for a rigorous mathematical breakdown of the classification weights and cluster silhouettes.*
+*If you are an academic researcher or recruiter reviewing this repository, please review the `CSE488_Report_IEEE.pdf` in the `/reports` directory for a rigorous mathematical breakdown of the classification weights and cluster silhouettes.*
