@@ -83,8 +83,7 @@ This pipeline is optimized for execution within a Google Colab environment to na
 2. Mount Google Drive containing the raw `BBS_Census_2022.xlsx` and `EC_Results_2026.csv` files.
 3. Execute the pipeline sequentially from Notebook 1 to 5.
 
-## 👨‍💻 Author
-*   **Md. Sadik Shahriar** (ID: 2023-2-60-103) - End-to-End Pipeline Architecture, Data Engineering, PySpark ML Modeling, and Geospatial Analysis.
+
 
 ## 📜 License & Citation
 
